@@ -1,2 +1,2 @@
 # mahesh-currency-converter
-npm package which converts currency 
+NPM package which converts currency
